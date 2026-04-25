@@ -6,7 +6,7 @@ import Logos from '../components/Logos';
 
 const CARDS = [
   {
-    icon: '🚀', title: 'IIC HUB', tagline: 'Innovation & Incubation Center',
+    icon: '🚀', title: 'IIC HUB', tagline: 'Attendance and task management app',
     badgeText: 'MOBILE APP', badgeColor: '#00f0ff', accentColor: '#00f0ff', route: '/iic-hub',
   },
   {

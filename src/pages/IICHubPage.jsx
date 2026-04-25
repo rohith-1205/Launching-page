@@ -5,7 +5,7 @@ const IICHubPage = () => (
   <QRPage
     icon="🚀"
     title="IIC HUB"
-    description="Scan to download the IIC Hub mobile app from Google Drive and install it on your device."
+    description="Attendance and task management app. Scan the QR code to download and install."
     url={LINKS.iicHub}
     accentColor="#00f0ff"
   />
