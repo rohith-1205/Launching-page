@@ -14,12 +14,12 @@ const CARDS = [
     badgeText: 'WEBSITE', badgeColor: '#7b2fff', accentColor: '#7b2fff', route: '/gyan',
   },
   {
-    icon: '⚡', title: 'NEXUS', tagline: 'Connect. Collaborate. Create.',
-    badgeText: 'PLATFORM', badgeColor: '#ff6b35', accentColor: '#ff6b35', route: '/nexus',
+    icon: '📰', title: 'IIC NEWSLETTER', tagline: 'Latest updates and news',
+    badgeText: 'PUBLICATION', badgeColor: '#ff6b35', accentColor: '#ff6b35', route: '/newsletter',
   },
   {
-    icon: '🛸', title: 'ORBIT', tagline: 'Tools built for the future',
-    badgeText: 'TOOL', badgeColor: '#00ff88', accentColor: '#00ff88', route: '/orbit',
+    icon: '🛸', title: 'STF', tagline: 'Student project working domains',
+    badgeText: 'TRACK', badgeColor: '#00ff88', accentColor: '#00ff88', route: '/stf',
   },
 ];
 
