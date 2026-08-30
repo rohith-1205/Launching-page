@@ -1,4 +1,4 @@
-const LaunchCard = ({ icon, title, tagline, badgeText, badgeColor, accentColor, delay, onClick }) => {
+const LaunchCard = ({ icon, title, tagline, badgeText, accentColor, delay, onClick }) => {
   return (
     <div
       className="launch-card"
